@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Double Ended Queue/1.0.0": {
+        "runtime": {
+          "Double Ended Queue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Double Ended Queue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

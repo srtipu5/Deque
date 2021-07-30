@@ -1,0 +1,16 @@
+C:\Users\Tipu\Desktop\DataStructures\Double Ended Queue\Double Ended Queue\Double Ended Queue\bin\Debug\net5.0\Double Ended Queue.exe
+C:\Users\Tipu\Desktop\DataStructures\Double Ended Queue\Double Ended Queue\Double Ended Queue\bin\Debug\net5.0\Double Ended Queue.deps.json
+C:\Users\Tipu\Desktop\DataStructures\Double Ended Queue\Double Ended Queue\Double Ended Queue\bin\Debug\net5.0\Double Ended Queue.runtimeconfig.json
+C:\Users\Tipu\Desktop\DataStructures\Double Ended Queue\Double Ended Queue\Double Ended Queue\bin\Debug\net5.0\Double Ended Queue.runtimeconfig.dev.json
+C:\Users\Tipu\Desktop\DataStructures\Double Ended Queue\Double Ended Queue\Double Ended Queue\bin\Debug\net5.0\Double Ended Queue.dll
+C:\Users\Tipu\Desktop\DataStructures\Double Ended Queue\Double Ended Queue\Double Ended Queue\bin\Debug\net5.0\ref\Double Ended Queue.dll
+C:\Users\Tipu\Desktop\DataStructures\Double Ended Queue\Double Ended Queue\Double Ended Queue\bin\Debug\net5.0\Double Ended Queue.pdb
+C:\Users\Tipu\Desktop\DataStructures\Double Ended Queue\Double Ended Queue\Double Ended Queue\obj\Debug\net5.0\Double Ended Queue.csproj.AssemblyReference.cache
+C:\Users\Tipu\Desktop\DataStructures\Double Ended Queue\Double Ended Queue\Double Ended Queue\obj\Debug\net5.0\Double Ended Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipu\Desktop\DataStructures\Double Ended Queue\Double Ended Queue\Double Ended Queue\obj\Debug\net5.0\Double Ended Queue.AssemblyInfoInputs.cache
+C:\Users\Tipu\Desktop\DataStructures\Double Ended Queue\Double Ended Queue\Double Ended Queue\obj\Debug\net5.0\Double Ended Queue.AssemblyInfo.cs
+C:\Users\Tipu\Desktop\DataStructures\Double Ended Queue\Double Ended Queue\Double Ended Queue\obj\Debug\net5.0\Double Ended Queue.csproj.CoreCompileInputs.cache
+C:\Users\Tipu\Desktop\DataStructures\Double Ended Queue\Double Ended Queue\Double Ended Queue\obj\Debug\net5.0\Double Ended Queue.dll
+C:\Users\Tipu\Desktop\DataStructures\Double Ended Queue\Double Ended Queue\Double Ended Queue\obj\Debug\net5.0\ref\Double Ended Queue.dll
+C:\Users\Tipu\Desktop\DataStructures\Double Ended Queue\Double Ended Queue\Double Ended Queue\obj\Debug\net5.0\Double Ended Queue.pdb
+C:\Users\Tipu\Desktop\DataStructures\Double Ended Queue\Double Ended Queue\Double Ended Queue\obj\Debug\net5.0\Double Ended Queue.genruntimeconfig.cache
